@@ -31,7 +31,7 @@ Transforming raw data into actionable insights and intelligent solutions.
 - 🌱 **Renewable Energy Forecasting** – Poisson regression & clustering (state-wise)  
 - 🔥 **Wildfire Prediction (Big Data)** – Scalable analysis using NASA FIRMS data (9GB+)
 
-> ⚙️ View all projects: [github.com/rajasbhingarde](https://github.com/Er-Rajas)
+> ⚙️ View all projects: [github.com/Er-Rajas](https://github.com/Er-Rajas)
 
 ---
 
