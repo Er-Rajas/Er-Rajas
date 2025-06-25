@@ -1,22 +1,63 @@
-# Hey there, I'm Rajas Bhingarde! 👋
+# 👋 Hi, I'm Rajas Bhingarde
 
-I'm a passionate electrical engineering student with a knack for coding microcontrollers, diving into IoT projects, and revolutionizing industries through automation. Here's a bit about my journey:
+Aspiring Data Scientist | Python Enthusiast | AI Explorer  
+Transforming raw data into actionable insights and intelligent solutions.
 
-## About Me
-- 📚 I'm currently pursuing my Bachelor's in Electrical Engineering at University of Mumbai.
-- 💡 My main interests lie in coding microcontrollers ([Arduino](https://www.arduino.cc/), [ESP32](https://www.espressif.com/en/products/socs/esp32), [ESP8266](https://www.espressif.com/en/products/socs/esp8266)), and leveraging them for IoT applications.
-- 🌐 I'm fascinated by the potential of IoT and how it's shaping industries and daily life.
-- 🖥️ I'm proficient in CAD for PCB designing and enjoy creating 3D models for various projects.
+---
 
-## Skills
-- ⚙️ Coding: C++, Python
-- 🛠️ Tools: Arduino IDE, Eagle, Fusion 360
-- 🤖 Microcontrollers: Arduino, ESP32, ESP8266
-- 💡 IoT Platforms: Blynk IoT, Thing Speak
+## 🔍 About Me
 
-## Fun Facts
-- 🎵 I'm a fan of Eminem and Linkin Park.
-- 🎮 In my free time, you'll often find me playing games like Minecraft, CS:Go, Call of Duty Warzone, and GTA Online.
-- 📸 You can catch up with me on my [Instagram](https://www.instagram.com/rajas.jpeg/).
+- 🎓 Final-year B.E. student (University of Mumbai)  
+- 📊 Passionate about data-driven decision-making and machine learning  
+- 🤖 Exploring NLP, time series forecasting, clustering, and anomaly detection  
+- 🧠 Focused on building reproducible, scalable pipelines using real-world datasets
 
-Thank you for getting to know me! I'm looking forward to collaborating on exciting projects and exploring new horizons. Let's make a difference together! 😊
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK, OpenCV  
+- **Tools:** Jupyter, VS Code, Git, GitHub, Google Colab  
+- **Cloud & Deployment:** Azure (Student Subscription), Streamlit, Render  
+- **Other Skills:** EDA, Feature Engineering, Model Evaluation, Version Control
+
+---
+
+## 📌 Key Projects
+
+- 🧠 **Fake News Detection** – NLP pipeline with TF-IDF + Logistic Regression  
+- 🔍 **Spam Classification** – Exploratory analysis + supervised learning  
+- 🌱 **Renewable Energy Forecasting** – Poisson regression & clustering (state-wise)  
+- 🔥 **Wildfire Prediction (Big Data)** – Scalable analysis using NASA FIRMS data (9GB+)
+
+> ⚙️ View all projects: [github.com/rajasbhingarde](https://github.com/rajasbhingarde)
+
+---
+
+## 📈 Currently Learning
+
+- Deep Learning (CNNs, RNNs)  
+- ML Interpretability (SHAP, LIME)  
+- Big Data Tools (PySpark, Dask)  
+- Model Deployment (FastAPI, Docker basics)
+
+---
+## 🎮 Fun Side of Me
+
+- 🎧 Music:Eminem & Linkin Park on repeat  
+- 🕹️ Gaming: Minecraft | CS:GO | COD Warzone | GTA Online  
+- 📸 I document my journey on [Instagram](https://www.instagram.com/rajas.jpeg/)
+
+---
+
+## 🎯 Let's Connect
+
+I'm looking to contribute to open-source DS/ML projects, internships, and AI-driven collaborations.
+
+📫 [LinkedIn](https://www.linkedin.com/in/rajas-bhingarde/) | 📸 [Instagram](https://www.instagram.com/rajas.jpeg/)
+
+---
+
+> “Data is the new oil—but only if you refine it.” 🔍
+
